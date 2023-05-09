@@ -60,7 +60,7 @@ static class Program{
         milo.setAge(10); // to set age with private access
         Console.WriteLine($"cat name is {milo.name} age is {milo.age} race is {milo.race}");
         
-
+        
         //calling method class calculation
         int valueA = int.Parse(Console.ReadLine());
         int valueB = int.Parse(Console.ReadLine());
