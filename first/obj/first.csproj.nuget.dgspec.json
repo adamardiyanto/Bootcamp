@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj": {}
+    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj": {
+    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj",
         "projectName": "first",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj",
+        "projectPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\obj\\",
+        "outputPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
