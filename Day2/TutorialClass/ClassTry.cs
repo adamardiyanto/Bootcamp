@@ -1,35 +1,35 @@
 ﻿
 class Cat{
     //variabel getter setter
-    public string name{get; set; }
-    public int age{get; private set; }
-    public string race{get; set; }
+    public string Name{get; set; }
+    public int Age{get; private set; }
+    public string Race{get; set; }
 
     //method
     public void Eat(){
-        Console.WriteLine(this.name + " eat");
+        Console.WriteLine(this.Name + " eat");
     }
 
     public void Sleep(){
-        Console.WriteLine(this.name + " sleep");
+        Console.WriteLine(this.Name + " sleep");
     }
 
-    //method to set age with private setter
-    public void setAge(int age){
-        this.age = age;
+    //method to set Age with private setter
+    public void SetAge(int Age){
+        this.Age = Age;
     }
 
 
     //constructor
-    public Cat(string name, int age, string race){
-        this.name = name;
-        this.age = age;
-        this.race = race;
-        Console.WriteLine("cat name: " + this.name + " age: " + this.age + " race: " + this.race);
+    public Cat(string Name, int Age, string Race){
+        this.Name = Name;
+        this.Age = Age;
+        this.Race = Race;
+        Console.WriteLine("cat Name: " + this.Name + " Age: " + this.Age + " Race: " + this.Race);
     }
 
-    
-    
+
+
 }
 
 public static class Calculation{
@@ -43,22 +43,28 @@ public static class Calculation{
     public static int Add(int a,int b, int c){
         return a + b + c;
     }
+
+    public static void Print(int[] a){
+        for(int i = 0; i < a.Length; i++){
+            Console.Write(a[i] + " ");
+        }
+    }
 }
 
 static class Program{
     static void Main(string[] args){
         Cat cotton = new Cat("cotton", 2,"anggora"); //class cat cotton
         Cat milo = new Cat("milo",1,"kampung"); //class cat milo
-        cotton.name = "coto"; //try to set new name
-        string value = cotton.name; //try to get the name
+        cotton.Name = "coto"; //try to set new Name
+        string value = cotton.Name; //try to get the Name
         Console.WriteLine(value); // print the value
 
         // calling method
         cotton.Eat();
         cotton.Sleep();
         milo.Eat();
-        milo.setAge(10); // to set age with private access
-        Console.WriteLine($"cat name is {milo.name} age is {milo.age} race is {milo.race}");
+        milo.SetAge(10); // to set Age with private access
+        Console.WriteLine($"cat Name is {milo.Name} Age is {milo.Age} Race is {milo.Race}");
         
         
         //calling method class calculation
@@ -68,5 +74,7 @@ static class Program{
 
         Console.WriteLine(Calculation.Add(valueA,valueB));
         Console.WriteLine(Calculation.Add(valueA,valueB,valueC));
+        int[] values = {2,1,3,1,3,2};
+        Calculation.Print(values);
     }
 }
