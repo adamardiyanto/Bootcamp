@@ -28,10 +28,12 @@ class Cat{
 
 public static class Calculation{
 
+
+    //overloading function
     public static int Add(int a, int b){
         return a + b;
     }
-
+    //overloading function
     public static int Add(int a,int b, int c){
         return a + b + c;
     }
@@ -55,7 +57,9 @@ static class Program{
         //calling method class calculation
         int valueA = int.Parse(Console.ReadLine());
         int valueB = int.Parse(Console.ReadLine());
+        int valueC = int.Parse(Console.ReadLine());
+        
         Console.WriteLine(Calculation.Add(valueA,valueB));
-        Console.WriteLine(Calculation.Add(valueA,valueB,3));
+        Console.WriteLine(Calculation.Add(valueA,valueB,valueC));
     }
 }
