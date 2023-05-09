@@ -1,42 +1,61 @@
 ﻿
 class Cat{
     //variabel getter setter
-    public string _name{get; set; }
-    public int _age{get; set; }
-    public string _race{get; set; }
+    public string name{get; set; }
+    public int age{get; set; }
+    public string race{get; set; }
 
     //method
     public void Eat(){
-        Console.WriteLine(_name + " eat");
+        Console.WriteLine(this.name + " eat");
     }
 
     public void Sleep(){
-        Console.WriteLine(_name + " sleep");
+        Console.WriteLine(this.name + " sleep");
     }
 
     //constructor
     public Cat(string name, int age, string race){
-        _name = name;
-        _age = age;
-        _race = race;
-        Console.WriteLine("cat name: " + _name + " age: " + _age + " race: " + _race);
+        this.name = name;
+        this.age = age;
+        this.race = race;
+        Console.WriteLine("cat name: " + this.name + " age: " + this.age + " race: " + this.race);
     }
 
     
     
 }
 
+public static class Calculation{
+
+    public static int Add(int a, int b){
+        return a + b;
+    }
+
+    public static int Add(int a,int b, int c){
+        return a + b + c;
+    }
+}
+
 static class Program{
     static void Main(string[] args){
-        Cat cotton = new Cat("cotton", 2,"anggora"); //instantiate cotton
-        Cat milo = new Cat("milo",1,"kampung"); //instantiate milo
-        cotton._name = "coto"; //try to set new name
-        string value = cotton._name; //try to get the name
+        Cat cotton = new Cat("cotton", 2,"anggora"); //class cat cotton
+        Cat milo = new Cat("milo",1,"kampung"); //class cat milo
+        cotton.name = "coto"; //try to set new name
+        string value = cotton.name; //try to get the name
         Console.WriteLine(value); // print the value
 
         // calling method
         cotton.Eat();
         cotton.Sleep();
         milo.Eat();
+        Console.WriteLine($"cat name is {milo.name} age is {milo.age} race is {milo.race}");
+        
+
+        //calling method class calculation
+        int valueA = int.Parse(Console.ReadLine());
+        int valueB = int.Parse(Console.ReadLine());
+        Console.WriteLine(Calculation.Add(valueA,valueB));
+        Console.WriteLine(Calculation.Add(valueA,valueB,3));
     }
 }
