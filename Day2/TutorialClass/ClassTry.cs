@@ -2,7 +2,7 @@
 class Cat{
     //variabel getter setter
     public string name{get; set; }
-    public int age{get; set; }
+    public int age{get; private set; }
     public string race{get; set; }
 
     //method
@@ -13,6 +13,12 @@ class Cat{
     public void Sleep(){
         Console.WriteLine(this.name + " sleep");
     }
+
+    //method to set age with private setter
+    public void setAge(int age){
+        this.age = age;
+    }
+
 
     //constructor
     public Cat(string name, int age, string race){
@@ -51,6 +57,7 @@ static class Program{
         cotton.Eat();
         cotton.Sleep();
         milo.Eat();
+        milo.setAge(10); // to set age with private access
         Console.WriteLine($"cat name is {milo.name} age is {milo.age} race is {milo.race}");
         
 
@@ -58,7 +65,7 @@ static class Program{
         int valueA = int.Parse(Console.ReadLine());
         int valueB = int.Parse(Console.ReadLine());
         int valueC = int.Parse(Console.ReadLine());
-        
+
         Console.WriteLine(Calculation.Add(valueA,valueB));
         Console.WriteLine(Calculation.Add(valueA,valueB,valueC));
     }
