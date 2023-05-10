@@ -13,6 +13,7 @@ class Program{
         //Cat milo = hewan;  // Cannot implicitly convert type 'Animals' to 'Cat'
         //Cat belang = (Cat) hewan; //Unable to cast object of type 'AnimalLib.Animals' to type 'Cat'.
         Animals animal2 = dogo;
+        Console.WriteLine("age animal2 " + animal2.age);
         Cat milo = new Cat("milo",4,1);
         Console.WriteLine(animal2.name);
 
@@ -26,6 +27,7 @@ class Program{
         // try accessing the private variables
         //Console.WriteLine(milo._gender); //'Animals._gender' is inaccessible due to its protection level
 
+        milo.ShowMessage();
         
 
     }

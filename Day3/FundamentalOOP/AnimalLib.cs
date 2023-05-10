@@ -1,10 +1,12 @@
-namespace AnimalLib; // give this file namespace AnimalLib
+namespace AnimalLib; // give this file namespace AnimalLibLib
 
 class Animals{
     public string name{ get; set; }
     public int age{get; set; }
 
     private string _gender;
+
+    protected string message = "ini akses dari child";
 
     public Animals(string name, int age, int gender)
     {
@@ -15,12 +17,9 @@ class Animals{
         } else {
             _gender= "Female";
         }
-        Console.WriteLine("Animal name: " + name + " age: " + age + " gender: " + _gender);
+        Console.WriteLine("AnimalLib name: " + name + " age: " + age + " gender: " + _gender);
     }
-    public Animals()
-    {
-    }
-
+   
     public void Breath(){
         Console.WriteLine(this.name + " is Breathing");
     }

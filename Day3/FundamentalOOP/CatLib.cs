@@ -9,4 +9,8 @@ class Cat:Animals{
     public void Meong(){
         Console.WriteLine("Meoong");
     }
+
+    public void ShowMessage(){
+        Console.WriteLine(base.message);// accessing value from parent class 
+    }
 }
