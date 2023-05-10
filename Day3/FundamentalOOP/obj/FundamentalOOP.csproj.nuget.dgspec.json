@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj": {}
+    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\FundamentalOOP.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj": {
+    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\FundamentalOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj",
-        "projectName": "TutorialClass",
-        "projectPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\FundamentalOOP.csproj",
+        "projectName": "FundamentalOOP",
+        "projectPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\FundamentalOOP.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\obj\\",
+        "outputPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"

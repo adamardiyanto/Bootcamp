@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\bin\Debug\net7.0\FundamentalOOP.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\bin\Debug\net7.0\FundamentalOOP.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\bin\Debug\net7.0\FundamentalOOP.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\bin\Debug\net7.0\FundamentalOOP.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\bin\Debug\net7.0\FundamentalOOP.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\refint\FundamentalOOP.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\FundamentalOOP.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day3\FundamentalOOP\obj\Debug\net7.0\ref\FundamentalOOP.dll
