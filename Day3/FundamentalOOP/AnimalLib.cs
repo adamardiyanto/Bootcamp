@@ -1,4 +1,4 @@
-namespace AnimalLib; // give this file namespace AnimalLibLib
+namespace AnimalLib; // give this file namespace AnimalLib
 
 class Animals{
     public string name{ get; set; }

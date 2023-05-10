@@ -4,7 +4,6 @@ using DogLib;
 
 
 
-
 class Program{
     static void Main(string[] args)
     {
@@ -28,6 +27,7 @@ class Program{
         //Console.WriteLine(milo._gender); //'Animals._gender' is inaccessible due to its protection level
 
         milo.ShowMessage();
+        //Console.WriteLine(hewan.message); //'Animals.message' is inaccessible due to its protection level
         
 
     }
