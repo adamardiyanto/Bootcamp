@@ -14,7 +14,7 @@ class Program{
         //Cat belang = (Cat) hewan; //Unable to cast object of type 'AnimalLib.Animals' to type 'Cat'.
         Animals animal2 = dogo;
         Console.WriteLine("age animal2 " + animal2.age);
-        Cat milo = new Cat("milo",4,1);
+        Cat milo = new Cat("milo",4,1,"putih");
         Console.WriteLine(animal2.name);
 
         // calling parents method
