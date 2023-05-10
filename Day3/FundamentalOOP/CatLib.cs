@@ -8,6 +8,11 @@ class Cat:Animals{
         this.colour= colour;
         Console.WriteLine("name: " + name + " age: " + age + " gender: " + gender + " colour: " + colour);
     }
+
+    // constructor which doesnt have parameters for child but still make parameter for parent
+    public Cat() : base("puss", 3, 1){
+    }
+
     public void Meong(){
         Console.WriteLine("Meoong");
     }
