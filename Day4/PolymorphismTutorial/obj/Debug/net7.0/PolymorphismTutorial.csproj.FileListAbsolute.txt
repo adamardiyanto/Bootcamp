@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\bin\Debug\net7.0\PolymorphismTutorial.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\bin\Debug\net7.0\PolymorphismTutorial.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\bin\Debug\net7.0\PolymorphismTutorial.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\bin\Debug\net7.0\PolymorphismTutorial.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\bin\Debug\net7.0\PolymorphismTutorial.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\refint\PolymorphismTutorial.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\PolymorphismTutorial.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\PolymorphismTutorial\obj\Debug\net7.0\ref\PolymorphismTutorial.dll

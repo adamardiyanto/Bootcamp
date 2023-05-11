@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\bin\Debug\net7.0\Shape.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\bin\Debug\net7.0\Shape.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\bin\Debug\net7.0\Shape.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\bin\Debug\net7.0\Shape.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\bin\Debug\net7.0\Shape.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\refint\Shape.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\Shape.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\obj\Debug\net7.0\ref\Shape.dll
