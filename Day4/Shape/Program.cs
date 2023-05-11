@@ -45,11 +45,11 @@ public class Circle : Shape{
 
 class Program {
     static void Main(string[] args) {
-        Rectangle rect = new Rectangle(10,15);
+        Rectangle rect = new(10,15);
         Console.WriteLine("area Rectangle " + rect.GetArea());
-        Triangle triangle = new Triangle(15,10);
+        Triangle triangle = new(15,10);
         Console.WriteLine("area Triangle " + triangle.GetArea());
-        Circle circle = new Circle(15);
+        Circle circle = new(15);
         Console.WriteLine("area Circle " + circle.GetArea());
     }
 }

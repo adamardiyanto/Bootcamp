@@ -2,11 +2,11 @@ namespace AnimalLib;
  
 class Bird: Animals {
     public Bird(string name) : base(name) { 
-        Console.WriteLine("Bird with name " + name + "created");
+        Console.WriteLine("Bird with name " + name + " created");
 
     }
 
-    public override void MakeSound() {
+    public new void MakeSound() {
         Console.WriteLine("Bird twittering sound");
     }
 
