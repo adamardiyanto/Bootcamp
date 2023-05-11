@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ExIjtzCH7/nufdhRax6hQjgOKCMC8sIVGzp0pK+5nXwWK0E9MMBRbHt3RShtuFPoYnoWbBA/MJLqskC39zYDw==",
+  "dgSpecHash": "VkMkfwTmLFmYWqVcqOgjuEVbR0BsX/Nu8OpjwAH3CrWsXC0K5ihPTDhCSR7wCD2D4qBKNV4OXZvtBTdvzVKDSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day3\\FundamentalOOP\\FundamentalOOP.csproj",
+  "projectFilePath": "/home/adamardi/Bootcamp/Day3/FundamentalOOP/FundamentalOOP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

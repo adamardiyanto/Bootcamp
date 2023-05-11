@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj": {}
+    "/home/adamardi/Bootcamp/Day2/TutorialClass/TutorialClass.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj": {
+    "/home/adamardi/Bootcamp/Day2/TutorialClass/TutorialClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj",
+        "projectUniqueName": "/home/adamardi/Bootcamp/Day2/TutorialClass/TutorialClass.csproj",
         "projectName": "TutorialClass",
-        "projectPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\TutorialClass.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day2\\TutorialClass\\obj\\",
+        "projectPath": "/home/adamardi/Bootcamp/Day2/TutorialClass/TutorialClass.csproj",
+        "packagesPath": "/home/adamardi/.nuget/packages/",
+        "outputPath": "/home/adamardi/Bootcamp/Day2/TutorialClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/adamardi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/adamardi/.dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
