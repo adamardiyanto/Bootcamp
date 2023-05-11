@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zvYDiJqLOfj+j97ti2U4wYUktKu2Qakmz6eGSQ6c9a0wJsxBenamhdoaRXooeZrhAGdcarIlzHSjtRH2QZ4LQ==",
+  "dgSpecHash": "9snito7t4c/7U+jJTO0is13UuFcQEPNNHgAnmem7AnUNtggTYj/D2HMdhmCfUtReMiMCuJJhNm51Fg1mML9blw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\first\\first.csproj",
+  "projectFilePath": "/home/adamardi/Bootcamp/first/first.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

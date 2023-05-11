@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K3Zuv1QjJBjR1p6C9DrE3B7pHLcXfJDaImxWqxLuYBX0zpcOD6LkH3ezlWx0kWEUPp877c33RPpNNzmBtQaR6A==",
+  "dgSpecHash": "kqD6jj5x3ZkxhAe8F2de6gjhMRbQ9GJNHeMZl7abF5fYM35EXh/c91Jr50Osy4FrijATYZHWK8wVq+1frjLnHQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day1\\Day1.csproj",
+  "projectFilePath": "/home/adamardi/Bootcamp/day1/day1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

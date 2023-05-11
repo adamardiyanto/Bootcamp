@@ -1,15 +1,30 @@
-C:\Users\Batch 2\Documents\Bootcamp\first\bin\Debug\net7.0\first.exe
-C:\Users\Batch 2\Documents\Bootcamp\first\bin\Debug\net7.0\first.deps.json
-C:\Users\Batch 2\Documents\Bootcamp\first\bin\Debug\net7.0\first.runtimeconfig.json
-C:\Users\Batch 2\Documents\Bootcamp\first\bin\Debug\net7.0\first.dll
-C:\Users\Batch 2\Documents\Bootcamp\first\bin\Debug\net7.0\first.pdb
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.csproj.AssemblyReference.cache
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.AssemblyInfo.cs
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.dll
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\refint\first.dll
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.pdb
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\first.genruntimeconfig.cache
-C:\Users\Batch 2\Documents\Bootcamp\first\obj\Debug\net7.0\ref\first.dll
+C:/Users/Batch 2/Documents/Bootcamp/first/bin/Debug/net7.0/first.exe
+C:/Users/Batch 2/Documents/Bootcamp/first/bin/Debug/net7.0/first.deps.json
+C:/Users/Batch 2/Documents/Bootcamp/first/bin/Debug/net7.0/first.runtimeconfig.json
+C:/Users/Batch 2/Documents/Bootcamp/first/bin/Debug/net7.0/first.dll
+C:/Users/Batch 2/Documents/Bootcamp/first/bin/Debug/net7.0/first.pdb
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.csproj.AssemblyReference.cache
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.AssemblyInfoInputs.cache
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.AssemblyInfo.cs
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.csproj.CoreCompileInputs.cache
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.dll
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/refint/first.dll
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.pdb
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/first.genruntimeconfig.cache
+C:/Users/Batch 2/Documents/Bootcamp/first/obj/Debug/net7.0/ref/first.dll
+/home/adamardi/Bootcamp/first/bin/Debug/net7.0/first
+/home/adamardi/Bootcamp/first/bin/Debug/net7.0/first.deps.json
+/home/adamardi/Bootcamp/first/bin/Debug/net7.0/first.runtimeconfig.json
+/home/adamardi/Bootcamp/first/bin/Debug/net7.0/first.dll
+/home/adamardi/Bootcamp/first/bin/Debug/net7.0/first.pdb
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.AssemblyInfo.cs
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.dll
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/refint/first.dll
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.pdb
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/first.genruntimeconfig.cache
+/home/adamardi/Bootcamp/first/obj/Debug/net7.0/ref/first.dll
