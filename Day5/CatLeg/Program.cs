@@ -19,7 +19,7 @@ class Program{
         Cat milo = new Cat();
         Leg catLeg = new Leg(4);
         milo.SetLeg(catLeg);
-        Console.WriteLine(milo.totalLeg.LegSize );
+        Console.WriteLine(milo.totalLeg.LegSize);
     
     }
 }
