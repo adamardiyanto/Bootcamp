@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Shape
-build_property.ProjectDir = c:\Users\Batch 2\Documents\Bootcamp\Day4\Shape\
+build_property.RootNamespace = CatLeg
+build_property.ProjectDir = C:\Users\Batch 2\Documents\Bootcamp\Day5\CatLeg\
