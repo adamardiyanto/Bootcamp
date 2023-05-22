@@ -9,15 +9,15 @@
         _cargoWeight = 3000;
     }
 
-    public int checkWeight(){
+    public int CheckWeight(){
         return _cargoWeight;
     }
 
-    public Car checkCargoCar(){
+    public Car CheckCargoCar(){
         return _cargoCar;
     }
 
-    public Motor checkCargoMotor(){
+    public Motor CheckCargoMotor(){
         return _cargoMotor;
     }
 }
@@ -29,7 +29,7 @@ class Car {
         _carName = carName;
     }
 
-    public string getBrandName(){
+    public string GetBrandName(){
         return _carName;
     }
 }
@@ -41,7 +41,7 @@ class Motor {
         _motorName = motorName;
     }
 
-    public string getBrandName(){
+    public string GetBrandName(){
         return _motorName;
     }
 }
@@ -53,13 +53,14 @@ class Program {
 
         MyCargo myCargo = new MyCargo(myCar, myMotor);
 
-        int cargoWeight = myCargo.checkWeight();
-        Car newCar = myCargo.checkCargoCar();
-        Motor newMotor = myCargo.checkCargoMotor();
+        int cargoWeight = myCargo.CheckWeight();
+        Car newCar = myCargo.CheckCargoCar();
+        Motor newMotor = myCargo.CheckCargoMotor();
 
-        Console.WriteLine(newCar.getBrandName());
-        Console.WriteLine(newMotor.getBrandName());
-        Console.WriteLine(myCargo._cargoCar.getBrandName());
+        Console.WriteLine(newCar.GetBrandName());
+        Console.WriteLine(newMotor.GetBrandName());
+        Console.WriteLine(myCargo._cargoCar.GetBrandName()); 
+        
 
     }
 }
