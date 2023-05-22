@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\bin\Debug\net7.0\LearnTuple.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\bin\Debug\net7.0\LearnTuple.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\bin\Debug\net7.0\LearnTuple.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\bin\Debug\net7.0\LearnTuple.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\bin\Debug\net7.0\LearnTuple.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\refint\LearnTuple.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\LearnTuple.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day5\LearnTuple\obj\Debug\net7.0\ref\LearnTuple.dll
