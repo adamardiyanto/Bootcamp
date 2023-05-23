@@ -1,0 +1,15 @@
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.AssemblyInfo.cs
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/bin/Debug/net7.0/BoxUnbox
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/bin/Debug/net7.0/BoxUnbox.deps.json
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/bin/Debug/net7.0/BoxUnbox.runtimeconfig.json
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/bin/Debug/net7.0/BoxUnbox.dll
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/bin/Debug/net7.0/BoxUnbox.pdb
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.dll
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/refint/BoxUnbox.dll
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.pdb
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/BoxUnbox.genruntimeconfig.cache
+/home/adamardi/Bootcamp/SelfTry/BoxUnbox/obj/Debug/net7.0/ref/BoxUnbox.dll
