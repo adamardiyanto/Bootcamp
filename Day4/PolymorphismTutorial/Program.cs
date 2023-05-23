@@ -1,5 +1,5 @@
 ﻿using AnimalLib;
-class Program {
+static class Program {
     static void Main(string[] args)
     {
         Animals animal1 = new("si A");

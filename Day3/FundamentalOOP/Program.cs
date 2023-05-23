@@ -4,7 +4,7 @@ using DogLib;
 
 
 
-class Program{
+static class Program{
     static void Main(string[] args)
     {
         Animals hewan = new Animals("Fido", 10,1);

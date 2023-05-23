@@ -43,7 +43,7 @@ public class Circle : Shape{
         }
 }
 
-class Program {
+static class Program {
     static void Main(string[] args) {
         Rectangle rect = new(10,15);
         Console.WriteLine("area Rectangle " + rect.GetArea());

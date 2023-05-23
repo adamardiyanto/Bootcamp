@@ -46,7 +46,7 @@ class Motor {
     }
 }
 
-class Program {
+static class Program {
     static void Main(string[] args) {
         Motor myMotor = new Motor("Honda");
         Car myCar = new Car("Mitsubishi");
