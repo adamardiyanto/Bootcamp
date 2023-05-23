@@ -1,0 +1,15 @@
+/home/adamardi/Bootcamp/SelfTry/Enum/bin/Debug/net7.0/Enum
+/home/adamardi/Bootcamp/SelfTry/Enum/bin/Debug/net7.0/Enum.deps.json
+/home/adamardi/Bootcamp/SelfTry/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/home/adamardi/Bootcamp/SelfTry/Enum/bin/Debug/net7.0/Enum.dll
+/home/adamardi/Bootcamp/SelfTry/Enum/bin/Debug/net7.0/Enum.pdb
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.dll
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/refint/Enum.dll
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.pdb
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/home/adamardi/Bootcamp/SelfTry/Enum/obj/Debug/net7.0/ref/Enum.dll
