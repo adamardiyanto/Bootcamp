@@ -1,0 +1,15 @@
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.AssemblyInfo.cs
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/Day6/Generic2/bin/Debug/net7.0/Generic2
+/home/adamardi/Bootcamp/Day6/Generic2/bin/Debug/net7.0/Generic2.deps.json
+/home/adamardi/Bootcamp/Day6/Generic2/bin/Debug/net7.0/Generic2.runtimeconfig.json
+/home/adamardi/Bootcamp/Day6/Generic2/bin/Debug/net7.0/Generic2.dll
+/home/adamardi/Bootcamp/Day6/Generic2/bin/Debug/net7.0/Generic2.pdb
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.dll
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/refint/Generic2.dll
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.pdb
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/Generic2.genruntimeconfig.cache
+/home/adamardi/Bootcamp/Day6/Generic2/obj/Debug/net7.0/ref/Generic2.dll

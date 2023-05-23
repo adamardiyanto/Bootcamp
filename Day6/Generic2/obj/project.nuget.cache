@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3L4K18TYI4m3ZDkduwdOrp4pHMCMQ8a9kZzJ2Z0zbX/Habm8ZX7YGNRwDvU2zjHHFnPNZOzftPB8RPGc+YSUew==",
+  "dgSpecHash": "sJ/65xUVEDMLvrhqIZwD2ytrvavyllZJDaBoP6x1gQX8s9sfg0XdMvlMmPG4mQkpOW0hemsOnGVb63VKWbSlVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\Generic2.csproj",
+  "projectFilePath": "/home/adamardi/Bootcamp/Day6/Generic2/Generic2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

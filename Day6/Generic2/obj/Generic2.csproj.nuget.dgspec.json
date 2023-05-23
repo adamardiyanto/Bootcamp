@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\Generic2.csproj": {}
+    "/home/adamardi/Bootcamp/Day6/Generic2/Generic2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\Generic2.csproj": {
+    "/home/adamardi/Bootcamp/Day6/Generic2/Generic2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\Generic2.csproj",
+        "projectUniqueName": "/home/adamardi/Bootcamp/Day6/Generic2/Generic2.csproj",
         "projectName": "Generic2",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\Generic2.csproj",
-        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day6\\Generic2\\obj\\",
+        "projectPath": "/home/adamardi/Bootcamp/Day6/Generic2/Generic2.csproj",
+        "packagesPath": "/home/adamardi/.nuget/packages/",
+        "outputPath": "/home/adamardi/Bootcamp/Day6/Generic2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/adamardi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/adamardi/.dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
