@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\bin\Debug\net7.0\Delegates2.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\bin\Debug\net7.0\Delegates2.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\bin\Debug\net7.0\Delegates2.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\bin\Debug\net7.0\Delegates2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\bin\Debug\net7.0\Delegates2.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\refint\Delegates2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\Delegates2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesPlayer\obj\Debug\net7.0\ref\Delegates2.dll

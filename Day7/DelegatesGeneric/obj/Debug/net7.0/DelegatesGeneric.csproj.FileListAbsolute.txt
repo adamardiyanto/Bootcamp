@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\bin\Debug\net7.0\DelegatesGeneric.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\bin\Debug\net7.0\DelegatesGeneric.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\bin\Debug\net7.0\DelegatesGeneric.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\bin\Debug\net7.0\DelegatesGeneric.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\bin\Debug\net7.0\DelegatesGeneric.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\refint\DelegatesGeneric.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\DelegatesGeneric.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day7\DelegatesGeneric\obj\Debug\net7.0\ref\DelegatesGeneric.dll
