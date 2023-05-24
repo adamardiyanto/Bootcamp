@@ -1,0 +1,15 @@
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/bin/Debug/net7.0/DelegateCallback
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/bin/Debug/net7.0/DelegateCallback.deps.json
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/bin/Debug/net7.0/DelegateCallback.runtimeconfig.json
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/bin/Debug/net7.0/DelegateCallback.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/bin/Debug/net7.0/DelegateCallback.pdb
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.AssemblyInfo.cs
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/refint/DelegateCallback.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.pdb
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/DelegateCallback.genruntimeconfig.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateCallback/obj/Debug/net7.0/ref/DelegateCallback.dll
