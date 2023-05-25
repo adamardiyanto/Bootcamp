@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\bin\Debug\net7.0\Enumerator2.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\bin\Debug\net7.0\Enumerator2.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\bin\Debug\net7.0\Enumerator2.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\bin\Debug\net7.0\Enumerator2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\bin\Debug\net7.0\Enumerator2.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\refint\Enumerator2.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\Enumerator2.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day8\Enumerator2\obj\Debug\net7.0\ref\Enumerator2.dll
