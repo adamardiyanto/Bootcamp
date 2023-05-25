@@ -1,0 +1,15 @@
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/bin/Debug/net7.0/DelegateConstrainBaseClass
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/bin/Debug/net7.0/DelegateConstrainBaseClass.deps.json
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/bin/Debug/net7.0/DelegateConstrainBaseClass.runtimeconfig.json
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/bin/Debug/net7.0/DelegateConstrainBaseClass.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/bin/Debug/net7.0/DelegateConstrainBaseClass.pdb
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.csproj.AssemblyReference.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.AssemblyInfoInputs.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.AssemblyInfo.cs
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.csproj.CoreCompileInputs.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/refint/DelegateConstrainBaseClass.dll
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.pdb
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/DelegateConstrainBaseClass.genruntimeconfig.cache
+/home/adamardi/Bootcamp/SelfTry/DelegateConstrainBaseClass/obj/Debug/net7.0/ref/DelegateConstrainBaseClass.dll
