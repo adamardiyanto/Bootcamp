@@ -1,0 +1,15 @@
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.csproj.AssemblyReference.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.AssemblyInfoInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.AssemblyInfo.cs
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.csproj.CoreCompileInputs.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\bin\Debug\net7.0\TextNumberHandling.exe
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\bin\Debug\net7.0\TextNumberHandling.deps.json
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\bin\Debug\net7.0\TextNumberHandling.runtimeconfig.json
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\bin\Debug\net7.0\TextNumberHandling.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\bin\Debug\net7.0\TextNumberHandling.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\refint\TextNumberHandling.dll
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.pdb
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\TextNumberHandling.genruntimeconfig.cache
+C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\obj\Debug\net7.0\ref\TextNumberHandling.dll

@@ -38,8 +38,8 @@ public class Fraction
         return new Fraction(a.atas * b.atas, a.bawah * b.bawah);
     }
 
-    public static Fraction operator <(Fraction a, Fraction b)
-    {
+    // public static Fraction operator <(Fraction a, Fraction b)
+    // {
         
-    }
+    // }
 }
