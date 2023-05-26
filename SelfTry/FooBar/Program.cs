@@ -30,12 +30,13 @@ class Checker
         {
             foreach (KeyValuePair<int, string> dict in myDict)
             {
-                bool test = int.TryParse(print.PrintFoobar(i, dict.Key, dict.Value), out int x);
-                foobar = test? i.ToString() : print.PrintFoobar(i, dict.Key, dict.Value);  
+                // bool test = int.TryParse(print.PrintFoobar(i, dict.Key, dict.Value), out int x);
+                // foobar = test? i.ToString() : print.PrintFoobar(i, dict.Key, dict.Value);  
+                result += print.PrintFoobar(i, dict.Key, dict.Value);
                 
             }
             
-            Console.WriteLine(foobar);
+            //Console.WriteLine(foobar);
             
             
         }
