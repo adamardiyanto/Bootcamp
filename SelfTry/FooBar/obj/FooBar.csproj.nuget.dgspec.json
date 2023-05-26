@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/adamardi/Bootcamp/SelfTry/FooBar/FooBar.csproj": {}
+    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\SelfTry\\FooBar\\FooBar.csproj": {}
   },
   "projects": {
-    "/home/adamardi/Bootcamp/SelfTry/FooBar/FooBar.csproj": {
+    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\SelfTry\\FooBar\\FooBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/adamardi/Bootcamp/SelfTry/FooBar/FooBar.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\SelfTry\\FooBar\\FooBar.csproj",
         "projectName": "FooBar",
-        "projectPath": "/home/adamardi/Bootcamp/SelfTry/FooBar/FooBar.csproj",
-        "packagesPath": "/home/adamardi/.nuget/packages/",
-        "outputPath": "/home/adamardi/Bootcamp/SelfTry/FooBar/obj/",
+        "projectPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\SelfTry\\FooBar\\FooBar.csproj",
+        "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\SelfTry\\FooBar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/adamardi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/adamardi/.dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
