@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TextNumberHandling
-build_property.ProjectDir = C:\Users\Batch 2\Documents\Bootcamp\Day9\TextNumberHandling\
+build_property.ProjectDir = /home/adamardi/Bootcamp/Day9/TextNumberHandling/

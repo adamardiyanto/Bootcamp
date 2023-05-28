@@ -17,9 +17,10 @@ static class Program
 class Checker
 {
     private int _number;
-    private string result = " ";
+    private string _result = " ";
 
-    private string foobar = "";
+    private string _foobar = "";
+    private string _tempResult =" ";
 
     Dictionary<int, string> myDict;
 
@@ -35,12 +36,15 @@ class Checker
 
         for (int i = 1; i <= _number; i++)
         {
-            Console.WriteLine(CheckSingleNumber(i));
-            
-            //result += tempResult;
+            _foobar = CheckSingleNumber(i);
+            if (_foobar == "   ") _tempResult = i.ToString();
+            else _tempResult = _foobar;
+            //_tempResult = (_foobar == " ")? i.ToString() : _foobar;
+            //Console.WriteLine(_tempResult);
+            _result += _tempResult;
             
         }
-        return result;
+        return _result;
     }
     
     public string PrintFoobar(int number, int key, string value)
