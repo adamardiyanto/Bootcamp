@@ -2,10 +2,10 @@
 
 public class Program
 {
-    
+
     public static void Main(string[] args)
-    {   
-        Dictionary<int ,Employee> myDict = new Dictionary<int ,Employee>();
+    {
+        Dictionary<int, Employee> myDict = new Dictionary<int, Employee>();
         Employee boss = new Employee("big boss", 1);
         Employee karyawan = new Employee("staff", 5);
         Employee satpam = new Employee("security", 101);
@@ -17,39 +17,40 @@ public class Program
         Console.WriteLine("Masukan Id anda");
         int id;
         int.TryParse(Console.ReadLine(), out id);
-        foreach (var staff in myDict)
+        if (myDict.ContainsKey(id))
         {
-            if (id == staff.Key)
+            string value = (string)(object)myDict[id].role;
+            switch (value)
             {
-                switch(staff.Value.role)
-                {
-                    case "editor" :
-                        Console.WriteLine("Anda sebagai editor");
-                        string[] data = {"palu","obeng","bor"};
-                        IndividualBox<string> arrayString = new IndividualBox<string> (data);
-                        arrayString.Show();
+                case "editor":
+                    Console.WriteLine("Anda sebagai editor");
+                    string[] data = { "palu", "obeng", "bor" };
+                    IndividualBox<string> arrayString = new IndividualBox<string>(data);
+                    arrayString.Show();
+                    arrayString.Replace(1,"gerinda");
+                    arrayString.Show();
 
-                        MixedContainer mixContainer = new MixedContainer();
-                        mixContainer.AddToContainer("kertas");
-                        mixContainer.AddToContainer("buku");
-                        mixContainer.Show();
+                    MixedContainer mixContainer = new MixedContainer();
+                    mixContainer.AddToContainer("kertas");
+                    mixContainer.AddToContainer("buku");
+                    mixContainer.AddToContainer("laptop");
+                    mixContainer.Show();
+                    mixContainer.RemoveFromContainer(0);
+                    mixContainer.Show();
+                    break;
+                case "viewer":
+                    Console.WriteLine("Anda hanya bisa melihat data");
+
 
                     break;
-                    case "viewer" :
-                        Console.WriteLine("Anda hanya bisa melihat data");
-
+                default:
+                    Console.WriteLine("Role anda belum ditambahkan");
                     break;
-                    default :
-                        Console.WriteLine("Role anda belum ditambahkan");
-                    break;
-                }
-                Console.WriteLine($"tugas anda :{staff.Value.role}");
-                
-
-                break;
 
             }
         }
+        else Console.WriteLine("ID anda belum ditambahkan");
+
     }
 
 }

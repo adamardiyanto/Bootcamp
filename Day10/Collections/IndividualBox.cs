@@ -11,7 +11,7 @@ public class IndividualBox<T>
         array = value;
     }
 
-    public void Replace (int index, T value, T[] array)
+    public void Replace (int index, T value)
     {
         array[index] = value;
     }
