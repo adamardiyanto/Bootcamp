@@ -17,7 +17,7 @@ static class Program
 class Checker
 {
     private int _number;
-    private string _result = " ";
+    private string _result = "";
 
     private string _foobar = "";
     private string _tempResult =" ";
@@ -37,11 +37,8 @@ class Checker
         for (int i = 1; i <= _number; i++)
         {
             _foobar = CheckSingleNumber(i);
-            if (_foobar == "   ") _tempResult = i.ToString();
-            else _tempResult = _foobar;
-            //_tempResult = (_foobar == " ")? i.ToString() : _foobar;
-            //Console.WriteLine(_tempResult);
-            _result += _tempResult;
+            _tempResult = CheckValue(_foobar,i);
+            _result = _result + " " + _tempResult;
             
         }
         return _result;
@@ -50,7 +47,7 @@ class Checker
     public string PrintFoobar(int number, int key, string value)
     {
         if (number % key == 0) return value;
-        else return " ";
+        else return "";
     }
 
     public void AddDictionary(int key, string value)
@@ -60,7 +57,7 @@ class Checker
 
     public string CheckSingleNumber(int input)
     {
-        string result = " ";
+        string result = "";
         foreach (KeyValuePair<int, string> dict in myDict)
             {
                 result += PrintFoobar(input, dict.Key, dict.Value);
@@ -68,5 +65,16 @@ class Checker
         return result;
     }
 
+    public string CheckValue(string value, int index)
+    {
+        if (value == "") 
+        {
+           return index.ToString();
+        } 
+        else 
+        {
+            return value;
+        }
+    }
 }
 
