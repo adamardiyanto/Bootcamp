@@ -16,12 +16,7 @@ static class Program
 
 class Checker
 {
-    private int _number;
     private string _result = "";
-
-    private string _foobar = "";
-    private string _tempResult =" ";
-
     Dictionary<int, string> myDict;
 
     public Checker()
@@ -31,14 +26,9 @@ class Checker
 
     public string CheckInput(int input)
     {
-        _number = input;
-
-
-        for (int i = 1; i <= _number; i++)
+        for (int i = 1; i <= input; i++)
         {
-            _foobar = CheckSingleNumber(i);
-            _tempResult = CheckValue(_foobar,i);
-            _result = _result + " " + _tempResult;
+            _result = _result + " " + CheckValue(CheckSingleNumber(i),i);
             
         }
         return _result;
