@@ -1,18 +1,3 @@
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.csproj.AssemblyReference.cache
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.AssemblyInfoInputs.cache
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.AssemblyInfo.cs
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.csproj.CoreCompileInputs.cache
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.exe
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.deps.json
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.runtimeconfig.json
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.dll
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.pdb
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.dll
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/refint/TutorialClass.dll
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.pdb
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/TutorialClass.genruntimeconfig.cache
-C:/Users/Batch 2/Documents/Bootcamp/Day2/TutorialClass/obj/Debug/net7.0/ref/TutorialClass.dll
 /home/adamardi/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass
 /home/adamardi/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.deps.json
 /home/adamardi/Bootcamp/Day2/TutorialClass/bin/Debug/net7.0/TutorialClass.runtimeconfig.json

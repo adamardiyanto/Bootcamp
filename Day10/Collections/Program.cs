@@ -46,9 +46,8 @@ public class Program
                 default:
                     Console.WriteLine("Role anda belum ditambahkan");
                     break;
-
             }
-        }
+        } 
         else Console.WriteLine("ID anda belum ditambahkan");
 
     }
