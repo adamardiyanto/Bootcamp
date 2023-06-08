@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj": {}
+    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj": {
+    "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj",
         "projectName": "Enumerator",
-        "projectPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj",
+        "projectPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\Enumerator.csproj",
         "packagesPath": "C:\\Users\\Batch 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\obj\\",
+        "outputPath": "c:\\Users\\Batch 2\\Documents\\Bootcamp\\Day8\\Enumerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 2\\AppData\\Roaming\\NuGet\\NuGet.Config"
