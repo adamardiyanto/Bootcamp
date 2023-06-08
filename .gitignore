@@ -13,6 +13,8 @@
 x64/
 [Bb]in/
 [Oo]bj/
+net7.0/
+
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -133,3 +135,16 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+Day6/StructVsClass/obj/project.nuget.cache
+Day6/StructVsClass/obj/project.nuget.cache
+Day6/StructVsClass/obj/StructVsClass.csproj.nuget.dgspec.json
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.assets.cache
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.csproj.FileListAbsolute.txt
+Day6/StructVsClass/obj/project.nuget.cache
+Day6/StructVsClass/obj/StructVsClass.csproj.nuget.dgspec.json
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.assets.cache
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.csproj.FileListAbsolute.txt
+Day6/StructVsClass/obj/project.nuget.cache
+Day6/StructVsClass/obj/StructVsClass.csproj.nuget.dgspec.json
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.assets.cache
+Day6/StructVsClass/obj/Debug/net7.0/StructVsClass.csproj.FileListAbsolute.txt
