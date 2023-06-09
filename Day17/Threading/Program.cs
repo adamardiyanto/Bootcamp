@@ -11,7 +11,7 @@
         for (int i = 0; i < 10; i++)
         {
             Console.WriteLine("main thread");
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
         }
     }
     static void ThreadMethod()
@@ -19,7 +19,7 @@
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("t1 Thread");
-            Thread.Sleep(4000);
+            Thread.Sleep(1000);
         }
     }
     static void ThreadMethod2()
@@ -27,7 +27,7 @@
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("t2 Thread");
-            Thread.Sleep(6000);
+            Thread.Sleep(1000);
         }
     }
     static void ThreadMethod3()
