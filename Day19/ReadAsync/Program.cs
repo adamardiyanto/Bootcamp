@@ -10,8 +10,8 @@
         
         using (StreamReader sr = new StreamReader(path))
         {
-            Task<string> task = sr.ReadLineAsync();
-            string message = task.Result;
+            string message = await sr.ReadLineAsync();
+            // string message = task.Result;
             Console.WriteLine(message);
         }
         Console.WriteLine("main program");
