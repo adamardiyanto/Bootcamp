@@ -41,10 +41,6 @@ namespace CalendarApp
             // Get a list of calendars
             CalendarList calendarList = service.CalendarList.List().Execute();
             Console.WriteLine("Calendars:");
-            //IEnumerable<CalendarListEntry> calendars = calendarList.Items.Where(e => e.Description.Contains("besar"));
-            // IEnumerable<CalendarListEntry> calendars = from calendar in calendarList.Items
-            //                                             where calendar.Description.Length > 1
-            //                                             select calendar ;
 
             foreach (CalendarListEntry calendar in calendarList.Items)
             {
@@ -52,13 +48,18 @@ namespace CalendarApp
                 if(description != null)
                 {
 
-                    if (description.Contains("besar"))
+                    if (description.Contains("baru"))
                     {
-                        Console.WriteLine("- " + calendar.Summary);
-                        Console.WriteLine("- " + calendar.Id );
+                        service.Calendars.Delete(calendar.Id).Execute();
                     }
+                    // else
+                    // {
+                    //     Calendar entry = new Calendar();
+                    //     entry.Summary = "calendar baru";
+                    //     entry.Description = "baru";
+                    //     service.Calendars.Insert(entry).Execute();
+                    // }
                 }
-                    
                     // Console.WriteLine("- " + description);
                     // Console.WriteLine("- " + calendar.Summary);
             }
