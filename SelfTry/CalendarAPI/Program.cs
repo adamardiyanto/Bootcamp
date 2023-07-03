@@ -3,6 +3,7 @@ using Google.Apis.Calendar.v3;
 using Google.Apis.Calendar.v3.Data;
 using Google.Apis.Services;
 using Google.Apis.Util.Store;
+using System.Linq;
 
 namespace CalendarApp
 {
@@ -40,9 +41,25 @@ namespace CalendarApp
             // Get a list of calendars
             CalendarList calendarList = service.CalendarList.List().Execute();
             Console.WriteLine("Calendars:");
+            //IEnumerable<CalendarListEntry> calendars = calendarList.Items.Where(e => e.Description.Contains("besar"));
+            // IEnumerable<CalendarListEntry> calendars = from calendar in calendarList.Items
+            //                                             where calendar.Description.Length > 1
+            //                                             select calendar ;
+
             foreach (CalendarListEntry calendar in calendarList.Items)
             {
-                Console.WriteLine("- " + calendar.Summary);
+                string? description = calendar.Description;
+                if(description != null)
+                {
+
+                    if (description.Contains("besar"))
+                    {
+                        Console.WriteLine("- " + calendar.Summary);
+                    }
+                }
+                    
+                    // Console.WriteLine("- " + description);
+                    // Console.WriteLine("- " + calendar.Summary);
             }
 
             Console.WriteLine("Enter the name of the calendar you want to add an event to:");
