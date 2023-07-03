@@ -55,6 +55,7 @@ namespace CalendarApp
                     if (description.Contains("besar"))
                     {
                         Console.WriteLine("- " + calendar.Summary);
+                        Console.WriteLine("- " + calendar.Id );
                     }
                 }
                     
